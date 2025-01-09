@@ -4,7 +4,7 @@
 
 Dies ist eine API, die Sie herunterladen und lokal ausführen müssen. Sie müssen ihn weder verführen noch verfeinern. Dieses Projekt stellt das Back-End Ihres Projekts dar.
 
-## Команды для запуска API
+## Befehle zum Ausführen der API
 
 ### `npm run dev `
 
