@@ -1,27 +1,27 @@
-# Данный backend позволит вам выполнить проект
+# Mit diesem Backend können Sie das Projekt abschließen
 
-[Ссылка на макет](https://www.figma.com/file/yNWvXvjZC0t8d9yBOpeEPy/Garden?node-id=4743%3A989)
+[Link zum Layout](https://www.figma.com/file/yNWvXvjZC0t8d9yBOpeEPy/Garden?node-id=4743%3A989)
 
-Это API, которое вам необходимо скачать и запустить у себя локально. Вам не нужно его манять или дорабатывать. Данный проект будет представлять back-end вашего проекта.
+Dies ist eine API, die Sie herunterladen und lokal ausführen müssen. Sie müssen ihn weder verführen noch verfeinern. Dieses Projekt stellt das Back-End Ihres Projekts dar.
 
 ## Команды для запуска API
 
 ### `npm run dev `
 
-## Ссылки API
+## API Links
 
 ## GET
 
-### /categories/all - ссылка на все категории
+### /categories/all - Link zu allen Kategorien
 
-### /categories/1 - ссылка на продукты из первой категории
+### /categories/1 - Link zu Produkten aus der ersten Kategorie
 
-### /products/all - ссылка на все продукты
+### /products/all - Link zu allen Produkten
 
-### /products/1 - ссылка на первый продукт
+### /products/1 - Link zum ersten Produkt
 
 ## POST
 
-### /sale/send - отправка заявки на купон
+### /sale/send - Eine Gutscheinanfrage senden
 
-### /order/send - отправка заказа на сервер
+### /order/send - Bestellung an Server senden
