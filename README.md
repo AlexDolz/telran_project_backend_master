@@ -6,6 +6,8 @@ Dies ist eine API, die Sie herunterladen und lokal ausführen müssen. Sie müss
 
 ## Befehle zum Ausführen der API
 
+Backend-Dateien herunterladen und geben Sie den Befehl ein
+
 ### `npm run dev `
 
 ## API Links
